@@ -8,7 +8,7 @@ A. Paul, P. Acar, W. Liao, A. Choudhary, V. Sundararaghavan and A. Agrawal. Micr
 
 ## Developer Team & Collaborators 
 
-The code was developed by the <a href="http://cucis.ece.northwestern.edu/">CUCIS</a> group at the Electrical and Computer Engineering Department at Northwestern University. The development team would like thank the collaborators <a href="https://www.me.vt.edu/people/faculty/pinar-acar/">Prof. Pinar Acar</a> at Virginia Tech and <a href="https://aero.engin.umich.edu/people/veera-sundararaghavan/">Prof. Veera Sundararaghavan</a>. 
+The code was developed by the <a href="http://cucis.ece.northwestern.edu/">CUCIS</a> group at the Electrical and Computer Engineering Department in Northwestern University. The development team would like thank the collaborators <a href="https://www.me.vt.edu/people/faculty/pinar-acar/">Prof. Pinar Acar</a> at Virginia Tech and <a href="https://aero.engin.umich.edu/people/veera-sundararaghavan/">Prof. Veera Sundararaghavan</a>. 
 
 
 ## Questions/Comments:
