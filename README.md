@@ -3,6 +3,11 @@ Microstructure optimization of constrained design objectives using machine learn
 
 ## Requirements 
 
+* MATLAB 9.2.0.556344 (R2017a)
+* Python 2.7.1 or above
+* Scikit-Learn 0.19.1
+
+
 ## Citation
 If you use this code or data, please cite:
 
