@@ -2,7 +2,7 @@
 Microstructure optimization of constrained design objectives using machine learning based feedback aware data generation
 
 <p align="center">
-  <img src="ml_optim.png" width="800">
+  <img src="optim_ml.png" width="800">
 </p>
 
 
