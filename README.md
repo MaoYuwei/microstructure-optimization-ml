@@ -1,6 +1,11 @@
 # microstructure-optimization-ml
 Microstructure optimization of constrained design objectives using machine learning based feedback aware data generation
 
+<p align="center">
+  <img src="ml_optim.png" width="800">
+</p>
+
+
 ## Requirements 
 
 * MATLAB 9.2.0.556344 (R2017a)
