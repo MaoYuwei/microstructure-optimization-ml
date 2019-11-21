@@ -16,7 +16,7 @@ Microstructure optimization of constrained design objectives using machine learn
 ## Citation
 If you use this code or data, please cite:
 
-A. Paul, P. Acar, W. Liao, A. Choudhary, V. Sundararaghavan and A. Agrawal. Microstructure Optimization with Constrained Design Objectives using Machine Learning-Based Feedback-Aware Data-Generation. Journal of Computational Materials Science, 2019
+A. Paul, P. Acar, W. Liao, A. Choudhary, V. Sundararaghavan and A. Agrawal. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0927025619300151"> Microstructure Optimization with Constrained Design Objectives using Machine Learning-Based Feedback-Aware Data-Generation</a>. Journal of Computational Materials Science, 2019
 
 ## Developer Team & Collaborators 
 
